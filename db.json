@@ -1,4 +1,70 @@
 {
-  "watchers": [],
-  "genres": []
+  "watchers": [
+    {
+      "name": "james",
+      "count": 0
+    },
+    {
+      "name": "divs",
+      "count": 1
+    },
+    {
+      "name": "joe",
+      "count": 0
+    },
+    {
+      "name": "fia",
+      "count": 0
+    },
+    {
+      "name": "sam",
+      "count": 0
+    },
+    {
+      "name": "olly",
+      "count": 0
+    },
+    {
+      "name": "paul",
+      "count": 0
+    }
+  ],
+  "genres": [
+    {
+      "name": "action",
+      "count": 0
+    },
+    {
+      "name": "thriller",
+      "count": 0
+    },
+    {
+      "name": "comedy",
+      "count": 0
+    },
+    {
+      "name": "romance",
+      "count": 0
+    },
+    {
+      "name": "drama",
+      "count": 1
+    },
+    {
+      "name": "western",
+      "count": 0
+    },
+    {
+      "name": "horror",
+      "count": 0
+    },
+    {
+      "name": "scifi",
+      "count": 0
+    },
+    {
+      "name": "fantasy",
+      "count": 0
+    }
+  ]
 }
