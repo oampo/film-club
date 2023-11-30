@@ -10,11 +10,11 @@
     },
     {
       "name": "joe",
-      "count": 0
+      "count": 1
     },
     {
       "name": "fia",
-      "count": 0
+      "count": 1
     },
     {
       "name": "sam",
@@ -26,6 +26,10 @@
     },
     {
       "name": "paul",
+      "count": 1
+    },
+    {
+      "name": "ben",
       "count": 0
     }
   ],
@@ -44,7 +48,7 @@
     },
     {
       "name": "romance",
-      "count": 0
+      "count": 1
     },
     {
       "name": "drama",
@@ -56,7 +60,7 @@
     },
     {
       "name": "horror",
-      "count": 0
+      "count": 1
     },
     {
       "name": "scifi",
@@ -64,7 +68,7 @@
     },
     {
       "name": "fantasy",
-      "count": 0
+      "count": 1
     }
   ]
 }
