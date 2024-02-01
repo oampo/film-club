@@ -2,7 +2,7 @@
   "watchers": [
     {
       "name": "james",
-      "count": 0
+      "count": 1
     },
     {
       "name": "divs",
@@ -56,7 +56,7 @@
     },
     {
       "name": "western",
-      "count": 0
+      "count": 1
     },
     {
       "name": "horror",
