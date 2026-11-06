@@ -22,7 +22,7 @@
     },
     {
       "name": "olly",
-      "count": 0
+      "count": 1
     },
     {
       "name": "paul",
@@ -36,7 +36,7 @@
   "genres": [
     {
       "name": "action",
-      "count": 0
+      "count": 1
     },
     {
       "name": "thriller",
